@@ -4,11 +4,11 @@ This script repository scrapes the National Geographic website for the photo of 
 
 ## Usage
 
-1) call the script manually. But that's tedious. so do this instead:
-2) set it in your `.bash_profile` if you live your life in terminal sessions or this instead:
-3) crontab:
-   * /12 * * * ~/path/to/script/ngpod2.sh 2>&1
+ 1. call the script manually. But that's tedious. so do this instead:
+ 2. set it in your `.bash_profile` if you live your life in terminal sessions or this instead:
+ 3. crontab:
+   ` * /12 * * * ~/path/to/script/ngpod2.sh 2>&1`
 
 ## Edit the following items to fit your environment
-replace `davidr` with your username in the **Finder** line
+replace `davidr` with your username in the **osascript** line
 
