@@ -12,3 +12,6 @@ This script repository scrapes the National Geographic website for the photo of 
 ## Edit the following items to fit your environment
 replace `davidr` with your username in the **osascript** line
 
+you will also need to mod the paths after `cd` to fit your environment
+
+also before running script for the first time, since it may break: do `mkdir -p /path/to/images/dir/ngpics`
